@@ -6,7 +6,7 @@ I'm a Data Scientist who has been building ML/DL models, Automation and Data Man
 
   - ML/DL models that not only aims to be high performance but also highly efficient, clean and scalable,
   - Programs that cover all the fundamental stages of end-to-end pipelines namely data collection, preprocessing, model building, output distribution,
-  - The widely used tech stack and frameworks to every single project (e.g., Docker, Cloud Services, MLFlow etc.),
+  - Applying widely used tech stack and frameworks to every single project (e.g., Docker, Cloud Services, MLFlow etc.) when possible,
   - Out of box solutions that bring novel perspective to the problem at hand,
   - Somebody else's work and making a few tweak to it to see if it can serve to my purpose.
 ---
