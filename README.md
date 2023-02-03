@@ -17,12 +17,6 @@ I'm a Data Scientist who has been building ML/DL models, Automation and Data Man
   - Better ways to make a piece of code clean, more appealing and reusable,
   - How a piece of information can be presented in the best way possible.
 ---
-:chart_with_upwards_trend:__Love Telling__:
-
-  - How I came up with what I did,
-  - What other possible ways I have proposed when solving the problem at hand,
-  - What kind of picture the models/results are depicting.
----
 
 ## Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> __Python__
